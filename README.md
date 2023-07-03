@@ -23,11 +23,13 @@ Final goal to achieve in this project was to predict the close price of differen
 
 -----Result-----
 
-image
+![image](https://github.com/aaryan7766/Data_Analysis_of_nifty/assets/98702994/e272467d-298a-4a68-9342-61745ed0931e)
 
-image
+![image](https://github.com/aaryan7766/Data_Analysis_of_nifty/assets/98702994/be4f4751-e7e2-4071-9679-d16e1f1282ce)
 
-image
+
+![image](https://github.com/aaryan7766/Data_Analysis_of_nifty/assets/98702994/2ea93659-68ef-4264-bed7-b211d2755e22)
+
 
 -----Challenges Faced----- In the scrapping i was getting different null values and duplicates so the challange was to remove these duplicates and filling of null values with the appropiate one. Creation of web page was the new task for me so writting the code to integrate the model with page was also a challenge i faced.
 
