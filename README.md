@@ -11,6 +11,16 @@ Final goal to achieve in this project was to predict the close price of differen
 
 ![image](https://github.com/aaryan7766/Data_Analysis_of_nifty/assets/98702994/e617e838-0084-4b5d-aceb-eeefb3231357)
 
+## Data Scarpng
+---
+For Data Scrapping we have used BeautifulSoup and Request model in python and for Data frame we used pandas and numpy library and at last we sued csv model to convert our dataFrame into csv files.
+
+![image](https://github.com/aaryan7766/Data_Analysis_of_nifty/assets/98702994/39899d18-49e3-4290-9881-197e62f82565)
+
+![image](https://github.com/aaryan7766/Data_Analysis_of_nifty/assets/98702994/a931c54f-b4d9-4419-afab-f7dc9e383ad4)
+
+
+
 
 ## Data Description
 ---
